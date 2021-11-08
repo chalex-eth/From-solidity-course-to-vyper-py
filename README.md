@@ -6,5 +6,6 @@ I decided to learn Vyper by hands-on on project, this repo will share my learnin
 
 # List of repos
  - [SimpleStorage_vyper](https://github.com/AlexChalard/SimpleStorage_vyper) / [Solidity's originale repo](https://github.com/PatrickAlphaC/simple_storage)
+ - [StorageFactory_vyper](https://github.com/AlexChalard/StorageFactory_vyper) / [Solidity's originale repo](https://github.com/PatrickAlphaC/storage_factory)
  - [Vyper_Fund_Me](https://github.com/AlexChalard/fund_me_vyper) / [Solidity's original repo](https://github.com/PatrickAlphaC/brownie_fund_me)
 
