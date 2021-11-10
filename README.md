@@ -7,6 +7,7 @@ I decided to learn Vyper by hands-on on project, this repo will share my learnin
 # List of repos
  - [SimpleStorage_vyper](https://github.com/AlexChalard/SimpleStorage_vyper) / [Solidity's original repo](https://github.com/PatrickAlphaC/simple_storage)
  - [StorageFactory_vyper](https://github.com/AlexChalard/StorageFactory_vyper) / [Solidity's original repo](https://github.com/PatrickAlphaC/storage_factory)
- - [Vyper_Fund_Me](https://github.com/AlexChalard/fund_me_vyper) / [Solidity's original repo](https://github.com/PatrickAlphaC/brownie_fund_me)
+ - [Fund_Me_Vyper](https://github.com/AlexChalard/fund_me_vyper) / [Solidity's original repo](https://github.com/PatrickAlphaC/brownie_fund_me)
+ - [Lottery_Vyper](https://github.com/AlexChalard/Lottery_vyper) / [Solidity's original repo](https://github.com/PatrickAlphaC/smartcontract-lottery)
  - [ERC20](https://github.com/AlexChalard/CreateERC20) / [Solidity's original repo](https://github.com/PatrickAlphaC/erc20-brownie-py)
 
